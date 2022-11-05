@@ -7,6 +7,6 @@ The Near Infrared Spectroscopy Branch of the China Instrument Society holds the 
 |  Dataset  | Input  | Output |
 | :------------ |:---------------:| -----:|
 | Training Set | 301 samples x 700 features | 301 samples x 1 (of 7 categories) |
-| Testing Set | 76 samples x 700 features   |  76 samples x 1 (of 7 categories)*|
+| Testing Set | 76 samples x 700 features   |  76 samples x 1 (of 7 categories)* |
 \* For competition evaluation
 
